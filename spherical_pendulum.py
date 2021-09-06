@@ -1,5 +1,5 @@
 """The following program numerically solves the equation of motion of a spherical pendulum using Runge-Kutta method,
-the final simulation shows the path traced by bob of the spherical pendulum"""
+the final result simulate the path traced by bob of the spherical pendulum"""
 
 
 import numpy as np
