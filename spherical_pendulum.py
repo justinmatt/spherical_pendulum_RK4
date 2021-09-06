@@ -25,7 +25,7 @@ def Rk4(t,y,dt):
     
     return dt*(k1+2*k2+2*k3+k4)/6
 
-dt = 0.01
+dt = 0.01     #step size for numerical calculation
 t0,tf = 0,50  #initial time and final time
 time = np.arange(t0,tf,dt)
 y0 = np.array([0,1,1,0])    #[initial velocity (dtheta,dphi),initial positions(theta,phi)]
