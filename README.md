@@ -8,4 +8,11 @@ The following program numerically solves the equation of motion of a spherical p
 
 # parameters
 * acceleration due to gravity (g)
-* Length of the pendulum 
+* Length of the pendulum
+
+
+
+
+
+
+credits:Justin Mathew 
