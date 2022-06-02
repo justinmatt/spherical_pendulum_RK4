@@ -13,6 +13,4 @@ The following program numerically solves the equation of motion of a spherical p
 
 
 
-
-
-credits:Justin Mathew 
+ 
